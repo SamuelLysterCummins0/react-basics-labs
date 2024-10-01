@@ -65,7 +65,7 @@ button {
   color: red;
 }
 
-input[type=text], input[type=date] {
+input[type=text], input[type=date], input[type=select] {
   width: 60%;
   padding: 12px 20px;
   margin: 8px 0;
@@ -95,3 +95,4 @@ form {
   width: 50%;
   margin: auto;
 }
+
